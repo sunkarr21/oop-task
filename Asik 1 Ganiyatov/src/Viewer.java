@@ -15,7 +15,6 @@ public class Viewer {
         return age;
     }
 
-    // Setters
     public void setName(String name) {
         this.name = name;
     }
