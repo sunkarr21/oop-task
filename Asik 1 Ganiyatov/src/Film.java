@@ -21,7 +21,6 @@ public class Film {
         return duration;
     }
 
-    // Setters
     public void setTitle(String title) {
         this.title = title;
     }
